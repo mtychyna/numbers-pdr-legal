@@ -1,7 +1,8 @@
-# Numbers PDR Privacy Policy
-## User data
+# Numbers PDR
+## Privacy Policy
+### User data
 No data collected
-## Permissions
+### Permissions
 No permissions required
-## Data transfer
+### Data transfer
 No permission for network usage. No data transmission at all.

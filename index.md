@@ -1,8 +1,15 @@
 # Numbers PDR
-## Privacy Policy
+## Privacy Policy (EN)
+Publication date: September 11, 2024
+### General Provisions
+Policy - current Privacy Policy
+Application - NumbersPDR application, made for Android operating system.
+Developer - the private person, created and distributed Application.
 ### User data
-No data collected
+Application do NOT collect any User data.
 ### Permissions
-No permissions required
+The only Application permission for Internet usage. Its required to show PrivacyPolicy inside the Application.
 ### Data transfer
-No permission for network usage. No data transmission at all.
+No data transmission at all.
+### Developer
+Developer is Mykola Tychyna. Developer can be contact throught email mtychyna@gmail.com.
